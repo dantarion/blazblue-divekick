@@ -1,6 +1,6 @@
 {
   "name": "Blazblue-divekick",
   "tagline": "Divekick-themed custom game mode for Blazblue Chronophantasma PC",
-  "body": "## TODO",
+  "body": "# How to use\r\n\r\n1. Buy Blazblue Chronophantasma Extend on Steam\r\n\r\nWe support Arc System Works and everything they do. \r\nEven though Central Fiction is out on console, please support them by using a genuine copy of the game to try out **blazblue-divekick**\r\n\r\n2. Install prerequisites\r\n\r\nThis app depends on **node.js** being installed and availible in the system **PATH**. Any version should do.\r\n\r\n3. Download and extract the zip to a folder.\r\n\r\n4. Inside the folder, run the batch file **setup.bat**. This only needs to be done once.\r\n\r\n5. Start Blazblue Chronophantasma Extend\r\n\r\n6. Run **run.bat**\r\n\r\n7. Select any of the **blazblue-divekick** characters and have fun!\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
